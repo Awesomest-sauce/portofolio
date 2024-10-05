@@ -1,0 +1,254 @@
+.wrapper{
+    width: 1480px;
+    height: 1000px;
+}
+.headerbox{
+    width: 1513px;
+    height: 80px;
+    background-color:  rgba(52, 41, 85, 0.479)
+
+    
+  
+}
+.logobox{
+    width: 200px;
+    height: 100px;
+    float: left;
+
+
+
+}
+.logo{
+    width: 130px;
+    height: 100px;
+    float: left;
+    
+   
+    
+}
+.menubox{
+    width: auto;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    float: right;
+    padding-right: 50px;
+    
+}
+.menubox a{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    padding-right: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.name{
+    font-weight: bold;
+    width: 600px;
+    height: 500px;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 150px;
+    float: left;
+}
+body{
+    background-image: linear-gradient(to right, rgba(81, 93, 221, 0.916),rgba(132, 192, 210, 0.777));
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.hobby{
+    font-size: large;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 60px;
+}
+.hobby p{
+    font-size: 80px;
+   
+    
+}
+.emel img{
+    width: 350px;
+    height: 200px;
+    margin-left: 50px;
+    border-radius: 10%;
+    box-shadow: 20px 20px 18px 0px;
+    
+}
+.emel{
+    margin-left: 160px;
+    
+}
+.picture{
+   width: 400px;
+   height:350px;
+   position: absolute;
+   margin-left:400px;
+   margin-top:60px;
+   border-radius: 100%;
+
+}
+.about{
+
+width: 800px;
+height: 500px;
+margin-left: 400px;
+margin-top: 100px;
+
+    
+}
+   
+.about p{
+
+    margin-bottom: 150px;
+    font-size: 30px;
+    text-align: center;
+}
+.me{
+    font-size: 20px;
+    
+}
+.acc{
+    font-weight: 15px;
+    font-size: 25px;
+    padding-right: 450px;
+    text-decoration: none;
+    
+
+}
+.pictures img{
+    width: 350px;
+    height: 200px;
+    margin-right: 50px;
+    border-radius: 10%;
+    box-shadow: 20px 20px 18px 0px;
+}
+.mlname{
+    padding-left: 300PX;
+    margin-top: 30PX;
+    font-size: 30px;
+}
+.mlpic p{
+    font-size: 30px;
+    padding-left: 300px;
+
+}
+.tourna img{
+    width: 350px;
+    height: 200px;
+    margin-left: 140px;
+    border-radius: 10%;
+    box-shadow: 20px 20px 18px 0px;
+}
+.pictures2 img{
+    width: 350px;
+    height: 200px;
+    margin-left: 120px;
+    border-radius: 10%;
+    box-shadow: 20px 20px 18px 0px;
+    margin-top: 100px;
+    
+
+}
+.Contact-Page{
+    position:absolute;
+    margin-left:320px;
+    margin-top: 240px;
+    width: 400px;
+    height: 450px;
+    background-color: rgba(0, 255, 229, 0.56);
+    border-radius: 10px;
+}
+.Contact-Page-Mask{
+    position:absolute;
+    margin-left:650px;
+    margin-top: 70px;
+    width: 600px;
+    height: 700px;
+    background-color: rgba(7, 255, 230, 0.201);
+    display:flex;
+    flex-direction: column;
+    border-radius: 10px;
+
+}
+
+.Contact-Page-Mask h2{
+    text-align: center;
+    margin-top:90px;
+    padding-bottom: 50px;
+}
+.Contact-Page-Mask input{
+    width: 300px;
+    height: 45px;
+    margin-left:160px;
+    margin-top:30px;
+    border-style: none;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.447);
+    color: black;
+}
+.Contact-Page-Mask button{
+    margin-left:240px;
+    margin-top: 50px;
+    width: 150px;
+    height: 35px;
+    background-color: rgba(36, 41, 47, 0.703);
+    border-style: none;
+    border-radius: 20px;
+    color:white;
+}
+.Contact-Page-Mask button:hover{
+    margin-left:240px;
+    margin-top: 50px;
+    width: 150px;
+    height: 35px;
+    background-color: rgb(240, 248, 255);
+    border-style: none;
+    border-radius: 20px;
+    transition: 0.5s;
+    color: black;
+}
+.Box{
+    text-align: left;
+    margin-left:90px;
+    margin-top:40px;
+}
+.Box h3{
+    margin-top:60px;
+    padding-top:20px;
+}
+.footer{
+    margin-top: 150px;
+    height: 100px;
+    width: auto;
+    background-color: rgba(100, 100, 136, 0.8);
+    margin: 0;
+    padding: 0;
+}
+.copy{
+    height: 100px;
+    width: 500px;
+    text-align: center;
+    color: rgba(18, 18, 67, 0.811);
+   float: left;
+}
+.copy{
+    font-size: 20px;
+}
+.copy a{
+    color: rgba(35, 35, 77, 0.785);
+    text-decoration: none;
+}
+.icon{
+    float: left;
+    font-size: 30px;
+    margin-left: 100px;
+    color: rgba(63, 63, 134, 0.879);
+    margin-top: 30px;
+
+}
+  
